@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mitmproxy/pdoc/commit/00e18eb12ae2f06f3c245f796bfe7f6224db033a",
       "git:hexsha": "00e18eb12ae2f06f3c245f796bfe7f6224db033a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mitmproxy/pdoc/commit/9520e5291bf87f585ca5d44bd775434621a0ec6e",
