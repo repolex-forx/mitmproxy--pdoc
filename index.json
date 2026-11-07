@@ -1,0 +1,11 @@
+{
+  "org": "mitmproxy",
+  "repo": "pdoc",
+  "versions": [
+    {
+      "commit": "00e18eb12ae2f06f3c245f796bfe7f6224db033a",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:09:38.679609+00:00"
+    }
+  ]
+}
